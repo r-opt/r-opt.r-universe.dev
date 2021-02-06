@@ -1,0 +1,17 @@
+[
+    {
+        "package": "MOI",
+        "url": "https://github.com/r-opt/MOI",
+        "branch": "master"
+    },
+    {
+        "package": "ROIoptimizer",
+        "url": "https://github.com/r-opt/ROIoptimizer",
+        "branch": "master"
+    },
+    {
+        "package": "rmpk",
+        "url": "https://github.com/r-opt/rmpk",
+        "branch": "master"
+    }
+]
