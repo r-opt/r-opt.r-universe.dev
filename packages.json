@@ -2,16 +2,16 @@
     {
         "package": "MOI",
         "url": "https://github.com/r-opt/MOI",
-        "branch": "universe"
+        "branch": "v0.0.0.9001"
     },
     {
         "package": "ROIoptimizer",
         "url": "https://github.com/r-opt/ROIoptimizer",
-        "branch": "universe"
+        "branch": "v0.0.1.9000"
     },
     {
         "package": "rmpk",
         "url": "https://github.com/r-opt/rmpk",
-        "branch": "universe"
+        "branch": "v0.0.1.9000"
     }
 ]
