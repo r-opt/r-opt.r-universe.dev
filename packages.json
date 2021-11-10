@@ -2,16 +2,16 @@
     {
         "package": "MOI",
         "url": "https://github.com/r-opt/MOI",
-        "branch": "v0.0.0.9001"
+        "branch": "v0.1.0.9000"
     },
     {
         "package": "ROIoptimizer",
         "url": "https://github.com/r-opt/ROIoptimizer",
-        "branch": "v0.0.1.9000"
+        "branch": "v0.1.0.9000"
     },
     {
         "package": "rmpk",
         "url": "https://github.com/r-opt/rmpk",
-        "branch": "v0.0.1.9000"
+        "branch": "v0.1.0.9000"
     }
 ]
